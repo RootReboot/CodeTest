@@ -8,6 +8,7 @@ The result for the input {6,8,8,7,2,5} should be 48 = 6*8. Note that 8*8 is the 
 
 Given the input {1,9,2,4} the result should be 36 = 9*4, and not 81 (9*9) since you shouldn't multiply a number by itself.
 
+## Structure
 ConsoleApp includes runs the code.
 
 Solution contains the solution to the problem.
